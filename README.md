@@ -1,4 +1,4 @@
-## Hey 👋, I'm Salem Makki!
+## Hey 👋, I'm Salem !
 
 <br/><br/>
 
