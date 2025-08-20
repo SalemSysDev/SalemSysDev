@@ -49,10 +49,8 @@ I enjoy turning ideas into real, interactive systems.
 
 ### 🔨 Projects
 
-- 🧾 [Personal Portfolio Website](https://github.com/SalemSysDev/portfolio-site)  
-- 💼 [Desktop Sales Management System](https://github.com/SalemSysDev/sales-system)  
-- 🧠 [Mini Quiz App](https://github.com/SalemSysDev/quiz-app)
-
+- 📱 [calculator](https://github.com/SalemSysDev/portfolio-site)  
+- 💼 [Simple Invoice Calculation System](https://github.com/SalemSysDev/Billing-System)  
 ---
 
 ### 📫 Contact Me
