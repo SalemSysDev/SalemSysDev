@@ -1,11 +1,12 @@
 ## Hey 👋, I'm SalemSysDev! 🧑‍💻
 
-![Profile Banner](https://img.shields.io/badge/Academic%20Developer-Python%20%7C%20Java%20%7C%20SQL-blue?style=for-the-badge)
+![Profile Banner](https://img.shields.io/badge/Academic%20Developer-Python%20%7C%20Java%20%7C%20SQL%20%7C%20PHP-blue?style=for-the-badge)
 
 <br/>
 
 I’m a tech student passionate about building user-friendly applications.  
 I specialize in *front-end web development* and create **desktop applications** using *Python, Java, and SQL Server*.  
+I’m currently expanding into **backend development** using *PHP* and *advanced database design*.  
 I enjoy turning ideas into real, interactive systems.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -17,6 +18,7 @@ I enjoy turning ideas into real, interactive systems.
 - 🎓 &nbsp; Computer Science student at the Higher Institute of Science and Technology, Sebha  
 - 💻 &nbsp; Desktop app developer using **Java**, **Python**, and **SQL Server**  
 - 🌐 &nbsp; Front-end web developer with **HTML**, **CSS**, and **JavaScript**  
+- 🧠 &nbsp; Backend learner with **PHP** and **Laravel**, exploring server-side logic and database integration  
 - 📘 &nbsp; Currently learning backend development and advanced database design  
 - 🔧 &nbsp; Open to collaborations and project ideas  
 - 📄 &nbsp; Resume available upon request
@@ -31,11 +33,9 @@ I enjoy turning ideas into real, interactive systems.
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a href="https://www.php.net/" target="_blank"><img alt="PHP" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
 <a href="https://isocpp.org/" target="_blank"><img alt="C++" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
-
-<br clear="left"/>
-
 
 <br clear="left"/>
 
@@ -51,9 +51,11 @@ I enjoy turning ideas into real, interactive systems.
 
 - 📱 [calculator](https://github.com/SalemSysDev/portfolio-site)  
 - 💼 [Simple Invoice Calculation System](https://github.com/SalemSysDev/Billing-System)  
+- 🧾 [PHP Contact Form](https://github.com/SalemSysDev/php-contact-form)  
+
 ---
 
 ### 📫 Contact Me
 
 - 📧 Email: [salemmakki53@gmail.com](mailto:salemmakki53@gmail.com)  
-- 🔗 Facebook: [My Facebook](https://www.facebook.com/share/1YudDmh8qi/)
+- 🔗 Facebook: [My Facebook](https://www.facebook.com/share/1YudDmh8qi/)  
