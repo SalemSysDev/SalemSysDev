@@ -1,61 +1,18 @@
-## Hey 👋, I'm SalemSysDev! 🧑‍💻
+# SalemSyDev# 💫 About Me:
+I’m a passionate tech student focused on building intuitive, user-friendly applications that solve real-world problems. With a strong foundation in front-end web development and desktop application design, I specialize in crafting responsive interfaces and robust systems using Python, Java, and SQL Server. Currently, I’m expanding my skill set into backend development with PHP and Laravel, exploring advanced database design and server-side logic. I thrive on transforming ideas into interactive, functional systems that enhance user experience and accessibility.
 
-![Profile Banner](https://img.shields.io/badge/Academic%20Developer-Python%20%7C%20Java%20%7C%20SQL%20%7C%20PHP-blue?style=for-the-badge)
 
-<br/>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Cp8XszRpk/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/x__salem_03?igsh=MTFicmczdGF4eTRjMg==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salemmakki53@gmail.com) 
 
-I’m a tech student passionate about building user-friendly applications.  
-I specialize in *front-end web development* and create **desktop applications** using *Python, Java, and SQL Server*.  
-I’m currently expanding into **backend development** using *PHP* and *advanced database design*.  
-I enjoy turning ideas into real, interactive systems.
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
----
-
-### 🧐 More About Me
-
-- 🎓 &nbsp; Computer Science student at the Higher Institute of Science and Technology, Sebha  
-- 💻 &nbsp; Desktop app developer using **Java**, **Python**, and **SQL Server**  
-- 🌐 &nbsp; Front-end web developer with **HTML**, **CSS**, and **JavaScript**  
-- 🧠 &nbsp; Backend learner with **PHP** and **Laravel**, exploring server-side logic and database integration  
-- 📘 &nbsp; Currently learning backend development and advanced database design  
-- 🔧 &nbsp; Open to collaborations and project ideas  
-- 📄 &nbsp; Resume available upon request
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SalemSysDev&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SalemSysDev&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalemSysDev&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SalemSysDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Languages and Tools
-
-<a href="https://www.python.org" target="_blank"><img alt="Python" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-<a href="https://www.java.com" target="_blank"><img alt="Java" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="SQL Server" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-<a href="https://www.php.net/" target="_blank"><img alt="PHP" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></a>
-<a href="https://git-scm.com/" target="_blank"><img alt="Git" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-<a href="https://isocpp.org/" target="_blank"><img alt="C++" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
-
-<br clear="left"/>
-
----
-
-### 📊 GitHub Stats
-
-![Salem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemSysDev&show_icons=true&theme=default)
-
----
-
-### 🔨 Projects
-
-- 📱 [calculator](https://github.com/SalemSysDev/portfolio-site)  
-- 💼 [Simple Invoice Calculation System](https://github.com/SalemSysDev/Billing-System)  
-- 🧾 [PHP Contact Form](https://github.com/SalemSysDev/php-contact-form)  
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [salemmakki53@gmail.com](mailto:salemmakki53@gmail.com)  
-- 🔗 Facebook: [My Facebook](https://www.facebook.com/share/1YudDmh8qi/)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
